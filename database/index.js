@@ -13,4 +13,5 @@ const connect = async () => {
   }
 };
 
+// console.log(process.env.PORT);
 module.exports = { connect, client };
